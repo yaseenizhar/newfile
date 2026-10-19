@@ -1,2 +1,3 @@
-red = "Git Track nh karraha"
-yello = "Git track karrahah h"
+Branch A and B both say hi
+
+Hello Mr YASEEN IZHAR
