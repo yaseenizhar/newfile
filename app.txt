@@ -1,2 +1,4 @@
 red = "Git Track nh karraha"
 yello = "Git track karrahah h"
+
+blue = "Thats my favourite colour"
