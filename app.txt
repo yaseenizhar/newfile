@@ -1,4 +1,4 @@
-red = "Git Track nh karraha"
+Branch A says hi
 yello = "Git track karrahah h"
 
 blue = "Thats my favourite colour"
