@@ -1,4 +1,1 @@
-Branch A says hi
-yello = "Git track karrahah h"
-
-blue = "Thats my favourite colour"
+Branch A and B both say hi
